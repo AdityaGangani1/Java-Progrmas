@@ -8,7 +8,7 @@
         public static void main (String[] args){
             
                 String str = "    J a v a L a n g u a g e    ";
-       //before string & after string
+       //before  & after
        String trimmer = str.trim();
        System.out.println(trimmer);
        
